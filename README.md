@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to my GitHub👋
 
-<!--
-**zVilanova/zVilanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Leonardo, a student of Control and Automation Engineering, in constantly evolving as a developer
 
-Here are some ideas to get you started:
+## About me 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently, I'm focused on learning and applying C# with an emphasis on backend and web development. My goal is to build solutions that combine logic, automation, and usability.
+- This repository represents my journey in programming. Here you'll find projects, studies and ideas in progress.
+
+## Technologies I'm Exploring 🛠️
+
+- C#
+- ASP.NET Core
+- Entity Framework
+- Web APIs
+- MVC (Model-View-Controller)
+
+## Constant Learning 📚 
+- I always strive to improve my skills through practical projects, courses, and academic experiences. With every commit, I take a step forward in my journey as a developer.
+
+## Let's Connect! 🌐 
+- LinkedIn: https://www.linkedin.com/in/leonardo-guedes-vilanova-ara%C3%BAjo-b8b6332b9/
+- Email: guedesleonardo022@gmail.com
