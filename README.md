@@ -20,4 +20,3 @@
 
 ## Let's Connect! 🌐 
 - LinkedIn: https://www.linkedin.com/in/leonardo-guedes-vilanova-ara%C3%BAjo-b8b6332b9/
-- Email: guedesleonardo022@gmail.com
