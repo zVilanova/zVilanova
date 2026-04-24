@@ -10,9 +10,6 @@
       Hi there! I'm <b>Leonardo Vilanova</b>
   </samp>
 </div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FzVilanova&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
       
 <br>
 <br>
@@ -95,7 +92,6 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:guedesleonardo022@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/leovilanova._/?next=%2F)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/leonardo-guedes-vilanova-ara%C3%BAjo-b8b6332b9/)
   
 </div>
